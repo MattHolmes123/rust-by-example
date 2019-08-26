@@ -1,0 +1,3 @@
+https://doc.rust-lang.org/stable/rust-by-example
+https://developer.ibm.com/articles/os-know-rust/
+https://github.com/rust-lang/rfcs/
